@@ -9,13 +9,13 @@ The code repository for the convex approach of [Zhou et al.](https://fling.seas.
 The code repository for Cascade of Multiple Neural Networks (CMNN).
 
 ### CMNN/Data
-Contains examples of training and evaluation data which come from Mocap Dataset [2]. You can download full data of all actions from: [Google drive](https://drive.google.com/open?id=1TTodlRDPhbVT7VPh47nSqsfriWB9Le25)
+Contains examples of training and evaluation data which come from Mocap Dataset [2]. You can download full data of all actions from: [Google drive](https://drive.google.com/file/d/1TTodlRDPhbVT7VPh47nSqsfriWB9Le25/view?usp=sharing)
 
 ### CMNN/models
 Contains models to run CMNN
 
 ### CMNN/results
-Contains examples results of CMNN
+Contains examples results of CMNN. You can download results of all actions from: [Google drive](https://drive.google.com/file/d/1ykdT8eEQ3352VjSGmKTb4Vtj9k12X1Zf/view?usp=sharing)
 
 ## Requirements
 Matlab with Neural Network Toolbox
