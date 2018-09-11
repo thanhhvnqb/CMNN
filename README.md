@@ -34,17 +34,26 @@ Matlab with Neural Network Toolbox
 ## Citation
 Please cite this paper in your publications if it helps your research:
 
-    @ARTICLE{8432121,
-    author={V. Hoang and K. Jo},
-    journal={IEEE Transactions on Industrial Informatics},
-    title={3D Human Pose Estimation Using Cascade of Multiple Neural Networks},
-    year={2018},
-    volume={},
-    number={},
-    pages={1-1},
-    doi={10.1109/TII.2018.2864824},
-    ISSN={1551-3203},
-    month={},}
+    @ARTICLE{thanh2018tii3d, 
+      author={V. Hoang and K. Jo}, 
+      journal={IEEE Transactions on Industrial Informatics}, 
+      title={3D Human Pose Estimation Using Cascade of Multiple Neural Networks}, 
+      year={2018}, 
+      volume={}, 
+      number={}, 
+      pages={1-1}, 
+      doi={10.1109/TII.2018.2864824}, 
+      ISSN={1551-3203}, 
+      month={},
+    }
+    
+    @inproceedings{thanh2017indin,
+      author    = {Van{-}Thanh Hoang and Van{-}Dung Hoang and Kang{-}Hyun Jo},
+      title     = {An improved method for 3D shape estimation using cascade of neural networks},
+      booktitle = {Proceedings of the IEEE International Conference on Industrial Informatics},
+      pages     = {285--289},
+      year      = {2017},
+    }
 
 
 ## References:
