@@ -32,7 +32,7 @@ Matlab with Neural Network Toolbox
 1. Run file ``CMNN\plotshape.m`` to plot 2D and the output 3D shape in 3 different views.
 
 ## Citation
-Please cite this paper in your publications if it helps your research:
+Please cite these papers in your publications if it helps your research:
 
     @ARTICLE{thanh2018tii3d, 
       author={V. Hoang and K. Jo}, 
